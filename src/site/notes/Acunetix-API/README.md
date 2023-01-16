@@ -25,15 +25,14 @@ Content-type: application/json; charset=utf8
 
 ## 文档目录(Contents)
 
-* 1 . [Dashboard接口](Dashboard.md)
-* 2 . [Targets接口](Acunetix-API/Document/Targets/main.md)
-    
-    * a). [General设置](scan.md)
-    * b). [Crawl设置](scan.md)
-    * c). [HTTP设置](scan.md)
-    * d). [Advanced设置](scan.md)
-* 3 . [Scans接口](Acunetix-API/Document/Scans/main.md)
-* 4 . [Vulnerabilities接口](Acunetix-API/Document/Vulnerabilities/main.md)
-* 5 . [Reports接口](Acunetix-API/Document/Reports/main.md)
+* 1 . [[Acunetix-API/Document/Dashboard\|Dashboard接口]]
+* 2 . [[Acunetix-API/Document/Targets/main\|Targets接口]]
+    * a). [[Acunetix-API/Document/Targets/scan#General设置:\|General设置]]
+    * b). [[Acunetix-API/Document/Targets/scan#爬虫(Crawl):\|Crawl设置]]
+    * c). [[Acunetix-API/Document/Targets/scan#HTTP设置(HTTP):\|HTTP设置]]
+    * d). [[Acunetix-API/Document/Targets/scan#Advanced设置:\|Advanced设置]]
+* 3 . [[Acunetix-API/Document/Scans/main\|Scans接口]]
+* 4 . [[Acunetix-API/Document/Vulnerabilities/main\|Vulnerabilities接口]]
+* 5 . [[Acunetix-API/Document/Reports/main\|Reports接口]]
      
 
